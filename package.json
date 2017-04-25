@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [fromage (v1.0.1)](https://github.com/pcanella/fromage) [![npm package](https://img.shields.io/npm/v/npmtest-fromage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fromage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fromage.svg)](https://travis-ci.org/npmtest/node-npmtest-fromage)",
+    "description": "#### basic test coverage for  [fromage (v1.0.1)](https://github.com/pcanella/fromage)  [![npm package](https://img.shields.io/npm/v/npmtest-fromage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fromage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fromage.svg)](https://travis-ci.org/npmtest/node-npmtest-fromage)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "fromage": "*",

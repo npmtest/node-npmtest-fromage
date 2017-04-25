@@ -1,4 +1,7 @@
-# test coverage for  [fromage (v1.0.1)](https://github.com/pcanella/fromage)  [![npm package](https://img.shields.io/npm/v/npmtest-fromage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fromage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fromage.svg)](https://travis-ci.org/npmtest/node-npmtest-fromage)
+# npmtest-fromage
+
+#### basic test coverage for  [fromage (v1.0.1)](https://github.com/pcanella/fromage)  [![npm package](https://img.shields.io/npm/v/npmtest-fromage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fromage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fromage.svg)](https://travis-ci.org/npmtest/node-npmtest-fromage)
+
 #### Turn a query string into an object
 
 [![NPM](https://nodei.co/npm/fromage.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fromage)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-fromage/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-fromage/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-fromage/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-fromage/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-fromage/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-fromage/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-fromage/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-fromage/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-fromage/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-fromage/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-fromage/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-fromage/build/coverage.html/index.html)
 
@@ -63,7 +66,8 @@
         "url": "git+https://github.com/pcanella/fromage.git"
     },
     "scripts": {},
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
